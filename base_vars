@@ -1,0 +1,12 @@
+##### Paperless - NGX #####
+##### Document management system #####
+# Default: paperless_ngx_port: "16922"
+# Default: paperless_ngx_port_postgres: "5432"
+# Default: paperless_ngx_port_redis: "6379"
+paperless_ngx_enabled: true
+paperless_ngx_postgres_db: "paperless"
+paperless_ngx_postgres_user: "paperless"
+paperless_ngx_postgres_password: "paperless"
+paperless_ngx_user_id: "1000" #Easy to use this way
+paperless_ngx_group_id: "1000" #Dont change either!!!!
+paperless_ngx_languages: "deu eng"
